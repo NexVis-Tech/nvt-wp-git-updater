@@ -2,7 +2,7 @@
 /*
 	Plugin Name: NVT WP Git Plugin Updater
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.0
+	Version: 1.0.2
 	Author: Irfan Masood
 	Author URI: http://www.nexvistech.com
 */
